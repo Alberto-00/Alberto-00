@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](./assets/cybersec.jpg)](https://alberto-00.github.io/)
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=1CA2F1)](https://alberto-00.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/Intagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/alberto_montefusco_/)
@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I am a Computer Science student at University of Salerno, and I am studying Cybersecurity for the Master's degree at University. I am keen on CyberSecurity and AI. I like testing my capability and improving my skills, in particular informatic ones. Determination and curiosity are the keywords that better describe my personality. 
 
 Want to know more about me? [Check out my portfolio.](https://alberto-00.github.io/)
 
@@ -15,12 +15,12 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Alberto-00">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-00&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Alberto-00">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Alberto-00&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
@@ -82,21 +82,6 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-
 <br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
