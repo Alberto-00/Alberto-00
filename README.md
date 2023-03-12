@@ -74,6 +74,13 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=IntelliJ_IDEA&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-CLion-informational?style=flat&logo=CLion&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-VScode-informational?style=flat&logo=VScode&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-VmWare-informational?style=flat&logo=VmWare&logoColor=white&color=539bf5)
+
+
 
 </details>
 <br>
