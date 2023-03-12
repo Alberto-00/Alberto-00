@@ -20,7 +20,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 </a>
 
 <a href="https://github.com/Alberto-00">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&hide=html,css&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&hide=html,css&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" />
 </a>
 
 <br>
