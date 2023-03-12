@@ -27,59 +27,52 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 <br>
 
 ## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=Truffle&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Web3j-informational?style=flat&logo=web3j&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Web3js-informational?style=flat&logo=web3js&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-MicroPython-informational?style=flat&logo=MicroPython&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-JavaEE-informational?style=flat&logo=JavaEE&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=539bf5)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IoT-Lightweight_cryptography-informational?style=flat&logo=Lightweight_cryptography&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-TEE-informational?style=flat&logo=TEE&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Exploit_SPI,I2C,UART-informational?style=flat&logo=Exploit_SPI,I2C,UART&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-PUF-informational?style=flat&logo=PUF&logoColor=white&color=539bf5)
 
 <br>
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cryptography-DES-informational?style=flat&logo=DES&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-AES-informational?style=flat&logo=AES&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-RSA-informational?style=flat&logo=RSA&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-MAC-informational?style=flat&logo=MAC&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-HMAC-informational?style=flat&logo=HMAC&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-Hashing-informational?style=flat&logo=Hashing&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-Digital_Signatures-informational?style=flat&logo=Digital_Signatures&logoColor=white&color=539bf5)
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Ganache-informational?style=flat&logo=ganache&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Hyperledger-informational?style=flat&logo=hyperledger&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Cardano-informational?style=flat&logo=cardano&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=539bf5)
 
 </details>
 <br>
