@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/cybersec.jpg)](https://alberto-00.github.io/)
+[![Alberto's GitHub Banner](./assets/cybersec.jpg)](https://alberto-00.github.io/)
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=1CA2F1)](https://alberto-00.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/Intagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/alberto_montefusco_/)
@@ -20,7 +20,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 </a>
 
 <a href="https://github.com/Alberto-00">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&hide=html,css&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&langs_count=10&hide=html,css,processing,fortran,shell,powershell,smarty,forth&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" />
 </a>
 
 <br>
@@ -30,6 +30,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 ![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=Truffle&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Web3j-informational?style=flat&logo=web3j&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Web3js-informational?style=flat&logo=web3js&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=539bf5)
