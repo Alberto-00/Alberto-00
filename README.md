@@ -16,11 +16,11 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 <br>
 
 <a href="https://github.com/Alberto-00">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Alberto-00&show_icons=true&line_height=27&count_private=true&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-alberto-00.vercel.app/api?username=Alberto-00&show_icons=true&line_height=27&count_private=true&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Alberto-00">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&langs_count=10&hide=html,css,processing,fortran,shell,powershell,smarty,forth&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-alberto-00.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&langs_count=10&hide=html,css,processing,fortran,shell,powershell,smarty,forth&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" />
 </a>
 
 <br>
