@@ -1,4 +1,12 @@
-[![Alberto's GitHub Banner](./assets/cybersec.jpg)](https://alberto-00.github.io/)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=539BF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alberto+Montefusco;I'm+22+years+old;I'm+from+Italy;I+Graduated+IT+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+
+[![Alberto's github activity graph](https://github-readme-activity-graph-git-main-alberto-00.vercel.app/graph?username=Alberto-00&theme=react&height=350)](https://github.com/Alberto-00/github-readme-activity-graph)
+
+
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=1CA2F1)](https://alberto-00.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/Intagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/alberto_montefusco_/)
@@ -15,13 +23,11 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 
 <br>
 
-<a href="https://github.com/Alberto-00">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-alberto-00.vercel.app/api?username=Alberto-00&show_icons=true&line_height=27&count_private=true&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Alberto-00">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-alberto-00.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&langs_count=10&hide=html,css,processing,fortran,shell,powershell,smarty,forth&title_color=539bf5&text_color=c9cacc&icon_color=539bf5&bg_color=ffffff00" />
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-alberto-00.vercel.app/api?username=Alberto-00&show_icons=true&count_private=true&theme=react" alt="Alberto Montefusco github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats-alberto-00.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&theme=react&langs_count=9&hide=html,css,processing,fortran,shell,powershell,smarty,forth" />
+</div>
 
 <br>
 <br>
@@ -85,4 +91,11 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 </details>
 <br>
 <hr>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alberto-00}/count.svg" /></p> 
+<br>
+</div>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=120&section=footer"/>
+
