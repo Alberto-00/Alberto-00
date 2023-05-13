@@ -6,18 +6,17 @@
 
 [![Alberto's github activity graph](https://github-readme-activity-graph-git-main-alberto-00.vercel.app/graph?username=Alberto-00&theme=react&height=350)](https://github.com/Alberto-00/github-readme-activity-graph)
 
-
-
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=1CA2F1)](https://alberto-00.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/Intagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/alberto_montefusco_/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/alberto-montefusco)
 
 Hey there 👋
 
-I am a Computer Science student at University of Salerno, and I am studying Cybersecurity for the Master's degree at University. I am keen on CyberSecurity and AI. I like testing my capability and improving my skills, in particular informatic ones. Determination and curiosity are the keywords that better describe my personality. 
+I am a Computer Science student at University of Salerno, and I am studying Cybersecurity for the Master's degree at University. I am keen on CyberSecurity and AI. I like testing my capability and improving my skills, in particular informatic ones. Determination and curiosity are the keywords that better describe my personality.
 
 Want to know more about me? [Check out my portfolio.](https://alberto-00.github.io/)
 
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -26,7 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-alberto-00.vercel.app/api?username=Alberto-00&show_icons=true&count_private=true&theme=react" alt="Alberto Montefusco github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats-alberto-00.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&theme=react&langs_count=9&hide=html,css,processing,fortran,shell,powershell,smarty,forth" />
+  <img width="41%" height="195px" src="https://github-readme-stats-alberto-00.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&theme=react&langs_count=9&hide=html,css,processing,fortran,shell,powershell,smarty,forth,cython" />
 </div>
 
 <br>
