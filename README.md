@@ -23,7 +23,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-alberto-00.vercel.app/api?username=Alberto-00&show_icons=true&count_private=true&theme=react" alt="Alberto Montefusco github stats" /> 
+  <img width="49%" src="https://github-readme-stats-alberto-00.vercel.app/api?username=Alberto-00&show_icons=true&count_private=true&theme=react" alt="Alberto Montefusco github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats-alberto-00.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&theme=react&langs_count=9&hide=html,css,processing,fortran,shell,powershell,smarty,forth,cython" />
 </div>
@@ -91,10 +91,9 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 <br>
 <hr>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alberto-00}/count.svg" /></p> 
-<br>
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alberto-00}/count.svg" /></p> 
+  <br>
 </div>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=120&section=footer"/>
-
