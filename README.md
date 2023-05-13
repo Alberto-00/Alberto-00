@@ -70,6 +70,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 
 <br>
 
+![](https://img.shields.io/badge/Tools-Gns3-informational?style=flat&logo=gns3&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Tools-Ganache-informational?style=flat&logo=ganache&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Tools-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Tools-Hyperledger-informational?style=flat&logo=hyperledger&logoColor=white&color=539bf5)
