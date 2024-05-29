@@ -25,7 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-alberto00s-projects.vercel.app/api?username=Alberto-00&show_icons=true&count_private=true&theme=react" alt="Alberto Montefusco github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats-alberto00s-projects.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&theme=react&langs_count=9&hide=html,css,jupyter notebook, processing,fortran,shell,powershell,smarty,forth,cython" />
+  <img width="49%" height="195px" src="https://github-readme-stats-alberto00s-projects.vercel.app/api/top-langs/?username=Alberto-00&layout=compact&theme=react&langs_count=9&hide=html,css,processing,fortran,shell,powershell,smarty,forth,cython" />
 </div>
 
 <br>
