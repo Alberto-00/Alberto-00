@@ -12,7 +12,7 @@
 
 Hey there 👋
 
-I am a Computer Science student at University of Salerno, and I am studying Cybersecurity for the Master's degree at University. I am keen on CyberSecurity and IoT. I like testing my capability and improving my skills, in particular informatic ones. Determination and curiosity are the keywords that better describe my personality.
+I am a Penetration Tester and a Red Team Operator. I am keen on CyberSecurity and IoT. I like testing my capability and improving my skills, in particular informatic ones. Determination and curiosity are the keywords that better describe my personality.
 
 Want to know more about me? [Check out my portfolio.](https://alberto-00.github.io/)
 
