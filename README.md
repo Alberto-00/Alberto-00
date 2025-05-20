@@ -45,7 +45,7 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=539bf5)
 
 <details>
-<summary>🔧 Offensive Tools & Frameworks</summary>
+<summary>🔧 Offensive Tools</summary>
 <br>
 
 ![](https://img.shields.io/badge/Tools-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=539bf5)
