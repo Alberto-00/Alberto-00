@@ -32,9 +32,6 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 <br>
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=Truffle&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Web3j-informational?style=flat&logo=web3j&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Web3js-informational?style=flat&logo=web3js&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=539bf5)
@@ -44,49 +41,59 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-JavaEE-informational?style=flat&logo=JavaEE&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=539bf5)
 
 <details>
-<summary>More Skills</summary>
+<summary>🔧 Offensive Tools & Frameworks</summary>
 <br>
 
-![](https://img.shields.io/badge/IoT-Lightweight_cryptography-informational?style=flat&logo=Lightweight_cryptography&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-TEE-informational?style=flat&logo=TEE&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Exploit_SPI,I2C,UART-informational?style=flat&logo=Exploit_SPI,I2C,UART&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-PUF-informational?style=flat&logo=PUF&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Burp_Suite-informational?style=flat&logo=burpsuite&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Metasploit-informational?style=flat&logo=metasploit&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Impacket-informational?style=flat&logo=python&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-BloodHound-informational?style=flat&logo=neo4j&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Cobalt_Strike-informational?style=flat&logo=cobaltstrike&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Responder-informational?style=flat&logo=linux&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-LinPEAS-informational?style=flat&logo=linux&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-WinPEAS-informational?style=flat&logo=windows&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Gobuster-informational?style=flat&logo=linux&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-FFUF-informational?style=flat&logo=linux&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-SQLmap-informational?style=flat&logo=database&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Hydra-informational?style=flat&logo=linux&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-John_The_Ripper-informational?style=flat&logo=lock&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Hashcat-informational?style=flat&logo=gpu&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Proxychains-informational?style=flat&logo=shell&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Chisel-informational?style=flat&logo=tunnel&logoColor=white&color=539bf5)
 
+</details>
+
+<details>
+<summary>🧠 Skills & Techniques</summary>
 <br>
 
-![](https://img.shields.io/badge/Cryptography-DES-informational?style=flat&logo=DES&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-AES-informational?style=flat&logo=AES&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-RSA-informational?style=flat&logo=RSA&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-MAC-informational?style=flat&logo=MAC&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-HMAC-informational?style=flat&logo=HMAC&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-Hashing-informational?style=flat&logo=Hashing&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-Digital_Signatures-informational?style=flat&logo=Digital_Signatures&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-Web_App_Pentesting-informational?style=flat&logo=owasp&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-Active_Directory_Attacks-informational?style=flat&logo=microsoft&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-Privesc_in_Linux/Windows-informational?style=flat&logo=linux&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-Pivoting/Tunneling-informational?style=flat&logo=tor&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-Phishing/Initial_Access-informational?style=flat&logo=gmail&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-EDR_Evasion_Techniques-informational?style=flat&logo=hackerone&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-Red_Team_Operations-informational?style=flat&logo=redhat&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Skills-Report_Writing_(WAPT)_&_Mitigations-informational?style=flat&logo=markdown&logoColor=white&color=539bf5)
 
+</details>
+
+<details>
+<summary>📚 Frameworks & Methodologies</summary>
 <br>
 
-![](https://img.shields.io/badge/Tools-Gns3-informational?style=flat&logo=gns3&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Ganache-informational?style=flat&logo=ganache&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Hyperledger-informational?style=flat&logo=hyperledger&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Cardano-informational?style=flat&logo=cardano&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=IntelliJ_IDEA&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-CLion-informational?style=flat&logo=CLion&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-VScode-informational?style=flat&logo=VScode&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-VmWare-informational?style=flat&logo=VmWare&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Framework-OWASP_WSTG-informational?style=flat&logo=owasp&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Framework-OWASP_Top_10-informational?style=flat&logo=owasp&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Framework-MITRE_ATT&CK-informational?style=flat&logo=mitre&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Framework-PTES-informational?style=flat&logo=security&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Framework-NIST_800–115-informational?style=flat&logo=gov&logoColor=white&color=539bf5)
 
-
+</details>
 
 </details>
 <br>
