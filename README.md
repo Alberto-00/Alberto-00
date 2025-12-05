@@ -98,10 +98,5 @@ Want to know more about me? [Check out my portfolio.](https://alberto-00.github.
 </details>
 <br>
 <hr>
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alberto-00}/count.svg" /></p> 
-  <br>
-</div>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=120&section=footer"/>
